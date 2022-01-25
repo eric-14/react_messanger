@@ -1,0 +1,18 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  min-width: 650px;
+  overflow: hidden;
+  text-align: center; 
+  background-image: linear-gradient( #D6DFE0,#868B8E);
+ 
+}
+
+.create__user{
+    height: 85vh;
+    width: 75vw;
+    background-color: #EAEAE0; 
+   
+    
+} 
